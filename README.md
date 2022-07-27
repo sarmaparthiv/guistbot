@@ -1,1 +1,1 @@
-# A  chatbot which answers simole questions related to GUIST.
+# A  chatbot which answers simple questions related to GUIST.
